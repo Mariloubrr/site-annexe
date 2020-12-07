@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Dancing+Script:wght@400;500;600;700&family=Pacifico&family=Parisienne&family=Sofia&display=swap&family=Castoro&family=Raleway:wght@300&display=swap" rel="stylesheet">');
+@import url('https://emoji-css.afeld.me/emoji.css" rel="stylesheet"');
+
+@import url("components/banner.css");
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/card.css");
+@import url("components/annexe.css");
+
+html {
+	background-color: rgb(250, 242, 237);
+}
+
+body {
+	font-family: 'Raleway', sans-serif;
+	font-size: 30px;
+	margin: 0px;
+	color: white;
+	text-align: justify;
+}
+
+
+h1 {
+	font-family: 'Dancing Script', cursive;
+	font-size: 40px;
+	text-align: center;
+}
+
+h2 { 
+	font-family: 'Raleway', sans-serif;
+	font-size: 30px; 
+	color: white;
+}
+
+h3 { 
+	font-size: 20px;
+}
+
+h4{
+	font-size: 15px;
+	color: rgb(240, 232, 227);
+}
+
+a {
+	text-decoration: none;
+	margin: 20px auto;
+	background-color: rgba(245, 245, 245);
+	padding: 10px 15px;
+	border-radius: 10px;
+	font-size: 20px;
+	color: #D0B78A;
+}
+
+a:hover{
+	font-weight: bolder;
+}
+
+img {
+	width: 400px;
+	border-radius: 8px;
+	display: block;
+	margin: auto;
+}
+
+p {
+	font-size: 20px;
+}
+
+#title {
+	color: #7e7474;
+}
+
+
+

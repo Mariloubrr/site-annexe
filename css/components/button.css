@@ -1,0 +1,14 @@
+.btn-grey {
+	background-color: #7e7474;
+	padding: 10px 15px;
+	border-radius: 10px;
+	color: white;
+	margin: 50px 30px;
+	align-items: center;
+	flex-grow: 1;
+}
+
+.btn-grey:hover {
+	font-weight: bolder;
+	background-color: #c4b6b6;
+}
